@@ -1,2 +1,3 @@
-# Test1-2
-Only for test as a noob
+# Project work for 1-2
+A text editor with syntax highlighting for c++ codes
+
